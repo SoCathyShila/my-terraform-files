@@ -16,3 +16,5 @@ variable "bucket1" {
  default = "my-tf-test-bucket-shikemun2"
  
 }
+
+//terraform project practice
