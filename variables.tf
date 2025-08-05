@@ -18,3 +18,4 @@ variable "bucket1" {
 }
 
 //terraform project practice
+//terraform another comment
